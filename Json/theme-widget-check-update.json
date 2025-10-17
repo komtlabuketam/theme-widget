@@ -1,0 +1,18 @@
+{
+  "data": {
+    "app_info": [
+      {
+        "what_news": "- New UI\n-Fix some issues",
+        "force_update": "false",
+        "package_name": "com.bigsoft.themechanger.themewidget",
+        "version_code": 1,
+        "version_name": "1.0",
+        "new_package_name": "com.bigsoft.themechanger.themewidget"
+      }
+    ]
+  },
+  "meta": {
+    "message": null,
+    "success": 1
+  }
+}
